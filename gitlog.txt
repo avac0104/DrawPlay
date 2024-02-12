@@ -1,0 +1,47 @@
+commit 01a0d346b3e72aae7b844fb0c587d3b3ea2fd73b
+Author: ava <acourtney@mines.edu>
+Date:   Mon Feb 12 09:59:03 2024 -0700
+
+    Changed message and colors of cat to pink with white eyes and a red mouth
+
+commit 1a67ff65434c49851db68c41ded7f0cb0457711f
+Author: Kevin <kev.tran2102@gmail.com>
+Date:   Mon Feb 12 09:55:23 2024 -0700
+
+    Changed height of the mouth from 10 to 50
+
+commit 8985337181ec922c99b19daead383acfd9fa7358
+Author: ava <acourtney@mines.edu>
+Date:   Mon Feb 12 09:53:16 2024 -0700
+
+    Changed location of cat to 400, 400
+
+commit 07496c05cf5b26a20f158f399ce248a48af6bbf4
+Author: Kevin <kev.tran2102@gmail.com>
+Date:   Mon Feb 12 09:50:34 2024 -0700
+
+    Changed the frame size in MyDrawing
+
+commit cde2d19eea617c850d9d367f3837d711eca9a452
+Author: ava <acourtney@mines.edu>
+Date:   Mon Feb 12 09:47:50 2024 -0700
+
+    Decreased eye separation
+
+commit c125227d000066681e6377d0f6064f966c0dd6e5
+Author: Kevin <kev.tran2102@gmail.com>
+Date:   Mon Feb 12 09:39:14 2024 -0700
+
+    Made cat blue and eyes orange, and changed location of text
+
+commit 59b4355ea39da0c961fe32af662ecf17075252f9
+Author: ava <acourtney@mines.edu>
+Date:   Mon Feb 12 09:21:46 2024 -0700
+
+    Adding gitignore
+
+commit a1bcf41fa4f336f530a5a69bfb7a97c36678db7d
+Author: ava <acourtney@mines.edu>
+Date:   Mon Feb 12 09:13:38 2024 -0700
+
+    Initial commit
