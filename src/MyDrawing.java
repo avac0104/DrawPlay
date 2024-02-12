@@ -27,7 +27,7 @@ public class MyDrawing extends JPanel {
 		// Program will end when the window is closed
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		// Set the size (otherwise only title bar displays)
-		frame.setSize(400, 400);
+		frame.setSize(800, 800); // changed frame size frmo 400,400 to 800, 800
 		
 		// Frame will not display until you set visible true
 		frame.setVisible(true);
